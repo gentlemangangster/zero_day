@@ -1,4 +1,4 @@
 **My Reamde File**
-#My optional vagrant project
-*Created a repository named zelo_day
+#This is a vagrant project
+*Created a repository called zero day
 *Created a Readme File
